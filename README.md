@@ -48,6 +48,8 @@
 - *JWT*: JSON Web Tokens for secure authentication
 - *Zustand*: State management library for React
 
+https://github.com/user-attachments/assets/2d121fbf-d1c4-4334-adfe-146f34d43c68
+
 ## Contact
 
 For any questions or feedback, please reach out via [email](mailto:iam.manimegalai25@gmail.com).
