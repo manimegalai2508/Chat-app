@@ -11,10 +11,6 @@
 - 👌 *Global State Management*: Manage app state effortlessly with Zustand
 - 🐞 *Error Handling*: Handle errors smoothly on both server and client
 
-## Demo
-
-Check out the live demo [here](https://chat-app-mern-2fzb.onrender.com).
-
 ## Project Structure
 
 ### Backend
